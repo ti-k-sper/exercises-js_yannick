@@ -1,0 +1,29 @@
+body{
+	background: url(../img/nappe2.png) no-repeat center center;
+	background-size: cover;
+	height: 50vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	align-items: center;
+}
+#clic{
+	background: url(../img/cookie.png) no-repeat center center;
+	background-size: cover;
+	border: 0;
+	width: 300px;
+	height: 300px;
+}
+#affichage{
+	height: 8vh;
+	width: auto;
+	border: blueviolet solid 5px;
+	box-shadow: 5px 5px 3px black;
+	font-size: 6vh;
+	text-align: center;
+}
+#multiAutoBonus{
+	width: 100%;
+	display: flex;
+	justify-content: space-around;
+}
